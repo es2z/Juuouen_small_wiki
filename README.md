@@ -1,2 +1,3 @@
-# Juuouen_small_wiki
-github pagesのテスト用に作成
+# 概要
+wiki的なものをデプロイしてみたかった｡  
+[ここに追加されていくはずです｡多分｡:https://es2z.github.io/Juuouen_small_wiki/](https://es2z.github.io/Juuouen_small_wiki/)
