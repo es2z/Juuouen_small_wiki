@@ -6,7 +6,7 @@
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
-    "buildall": "vitepress build && mkdir -p dist && cp -r docs/.vitepress/dist/* dist/"
+    "buildall": "vitepress build && cp -r docs/.vitepress/dist/* pages/"
   },
   "devDependencies": {
     "vue": "3.2.44",
