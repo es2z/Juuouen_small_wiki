@@ -1,1 +1,2 @@
 # Juuouen_small_wiki
+github pagesのテスト用に作成
