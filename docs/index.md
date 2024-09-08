@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=/Juuouen_small_wiki/overview/introduction" />
+<meta http-equiv="refresh" content="0; url=/Juuouen_small_wiki/introduction" />
