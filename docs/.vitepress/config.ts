@@ -13,9 +13,9 @@ export default defineConfig({
         // サイドバーの設定
         sidebar: [
             {
-                text: 'Guide',
+                text: '概要',
                 items: [
-                    { text: 'Introduction', link: '/overview/introduction' }, // ガイドの「導入」ページ
+                    { text: 'はじめに', link: '/overview/introduction' }, // ガイドの「導入」ページ
 
                 ]
             }
